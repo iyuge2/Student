@@ -12,7 +12,7 @@
 - [ICCV](http://openaccess.thecvf.com/ICCV2017.py)
 - [ECCV](https://link.springer.com/conference/eccv)
 
-#### 综合会议
+#### 其他/综合会议
 
 - [ICLR](https://openreview.net/group?id=ICLR.cc/2019/Conference)
 - [NeurIPS](https://nips.cc/Conferences/2018/Schedule?type=Poster)
