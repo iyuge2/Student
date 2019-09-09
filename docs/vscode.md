@@ -21,7 +21,7 @@ Host 随便取个名
     User [用户名]
     IdentityFile [如果设置了ssh密钥登陆，这里填写密钥地址，否则，可以不用此项]
 ```
-> **注意**: 连接成功后，会在服务器的用户根目录下创建一个`.vscode-server`文件夹，里面存放远端vscode配置信息。第一次连接或者vscode更新时，服务器需要连网。
+> **注意**: 连接成功后，会在服务器的用户根目录下创建一个`.vscode-server`文件夹，里面存放远端vscode配置信息。第一次连接或者vscode更新时，服务器需要连网。  
 > 传送门：[如何通过ssh免密登录服务器](./ssh.md)
 
 - 配色和字体推荐  
@@ -29,12 +29,12 @@ Host 随便取个名
 > 字体推荐：[FiraCode](https://github.com/tonsky/FiraCode) [[安装教程](https://github.com/tonsky/FiraCode/wiki)]
 
 显示效果：  
-![vscode配色效果](/images/vscode/fonts-theme.png)
+![vscode配色效果](../asserts/fonts-theme.png)
 
 - Settings Sync  
-> 将vscode配置（包括插件）同步到github gist中，方便一键移植。
-> [配置教程](https://juejin.im/post/5b9b5a6f6fb9a05d22728e36)
-> 上传配置快捷键: shift+Alt/option+U
+> 将vscode配置（包括插件）同步到github gist中，方便一键移植。  
+> [配置教程](https://juejin.im/post/5b9b5a6f6fb9a05d22728e36)  
+> 上传配置快捷键: shift+Alt/option+U  
 > 下载配置快捷键: shift+Alt/option+D
 
 - 其他插件
