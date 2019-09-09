@@ -9,6 +9,7 @@
 
 #### 巧妇难为无米之炊
 - [论文链接](./docs/papersLink.md)
+- [reading-list](./docs/readingList.md)
 
 #### 科研三部曲
 - [论文调研](./docs/***.md)
