@@ -10,6 +10,9 @@
 - [awesome-python](https://github.com/jobbole/awesome-python-cn)
 > 这个库不用学，遇到不会的可以到这里来找
 
+### python环境
+- [anaconda](https://zhuanlan.zhihu.com/p/32925500)
+
 ### 必会的python包
 - [numpy](https://www.numpy.org.cn/)
 > 强大的数值操作包
