@@ -31,6 +31,7 @@
 
 ## jupyter篇
 > 将jupyter与vscode结合起来用，简直是天地之合！
+- [使用服务器上的jupyter服务](https://blog.csdn.net/a819825294/article/details/55657496)
 - [基础教程](https://zhuanlan.zhihu.com/p/33105153)
 
 ## Github篇
