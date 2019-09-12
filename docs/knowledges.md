@@ -5,13 +5,18 @@
 - [百度网盘](https://pan.baidu.com/s/1h-3T5ISMnGvXmwRioslNWQ)
 > code: `e6k5`
 
+### python环境
+- [anaconda](https://zhuanlan.zhihu.com/p/32925500)
+
+## jupyter篇
+> 将jupyter与vscode结合起来用，简直是天地之合！
+- [使用服务器上的jupyter服务](https://blog.csdn.net/a819825294/article/details/55657496)
+- [基础教程](https://zhuanlan.zhihu.com/p/33105153)
+
 ## python篇
 - [python教程](https://docs.python.org/zh-cn/3/tutorial/index.html)
 - [awesome-python](https://github.com/jobbole/awesome-python-cn)
 > 这个库不用学，遇到不会的可以到这里来找
-
-### python环境
-- [anaconda](https://zhuanlan.zhihu.com/p/32925500)
 
 ### 必会的python包
 - [numpy](https://www.numpy.org.cn/)
@@ -28,11 +33,6 @@
 
 - [其他小包推荐，功能和用法自行查找](http://www.google.com)
 > `tqdm`, `glob`, `json`, `shutil`
-
-## jupyter篇
-> 将jupyter与vscode结合起来用，简直是天地之合！
-- [使用服务器上的jupyter服务](https://blog.csdn.net/a819825294/article/details/55657496)
-- [基础教程](https://zhuanlan.zhihu.com/p/33105153)
 
 ## Github篇
 - [入门教程](https://www.liaoxuefeng.com/wiki/896043488029600)
