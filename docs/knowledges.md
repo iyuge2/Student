@@ -40,6 +40,10 @@
 
 ## 深度学习篇
 ### pytorch
-- [官方教程](https://pytorch.org/tutorials/)
-- [pytorch-book](https://github.com/chenyuntc/pytorch-book)
 - [awesome-pytorch](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
+- [官方教程](https://pytorch.org/tutorials/)
+- [动手学深度学习-PyTorch版](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+- [pytorch-book](https://github.com/chenyuntc/pytorch-book)
+
+### 基础模型理解
+- [LSTM](https://blog.csdn.net/lyc_yongcai/article/details/73201446)
