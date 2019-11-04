@@ -59,7 +59,7 @@
 - 参考
 > [莫凡教程](https://morvanzhou.github.io/tutorials/machine-learning/sklearn/)  
 > [机器学习常见算法汇总](https://www.cnblogs.com/maybe2030/p/4665816.html)  
-> [scikit-learn包](https://sklearn.apachecn.org/)
+> [scikit-learn包](https://sklearn.apachecn.org/)  
 > [项目实践：再入院预测](https://pan.baidu.com/s/1XwGj4B6hWKQHtV6gfjB7zQ) 密码：`y3a3`
 
 #### 4. 深度学习基础知识 && pytorch学习
