@@ -9,7 +9,7 @@
 > 掌握vim编辑器基本操作    
 
 - 参考
-> [windows登录linux工具——xshell6](https://pan.baidu.com/s/1ikT9yB-vj6tbgay03zIW0A) 密码：`qw69`  
+> windows登录linux工具——xshell6  
 > [莫凡教程](https://morvanzhou.github.io/tutorials/others/linux-basic/)  
 > [linux手册](https://www.linuxcool.com/)  
 > [vim基础使用](https://www.runoob.com/linux/linux-vim.html)
@@ -75,4 +75,4 @@
 > [莫凡教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)  
 > [邱希鹏：神经网络与深度学习](https://pan.baidu.com/s/1Ui_smvv_aPXFVYhwMGKpPQ)  密码: `5yrq`  
 > [动手学深度学习-PyTorch版](https://github.com/ShusenTang/Dive-into-DL-PyTorch)    
-> [深度学习项目实践：叶脉语义分割](待续...)
+> [深度学习项目实践：叶脉语义分割](https://pan.baidu.com/s/1bQQpc_-bEQJloknmvwrE2Q) 密码:`5hl5`  
