@@ -6,6 +6,11 @@
 > 多动手！！！
 
 ## 目录
+
+#### 重磅
+- [学习PipeLine](./docs/StudyLine.md)
+
+
 #### 工欲善其事，必先利其器
 - [linux简单教程](./docs/linux.md)
 - [编辑器推荐——VSCode](./docs/vscode.md)
