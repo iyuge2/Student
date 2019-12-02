@@ -9,6 +9,7 @@
 
 #### 重磅
 - [学习PipeLine](./docs/StudyLine.md)
+- [人脸情绪识别入门篇](./docs/StudyLineForFER.md)
 
 
 #### 工欲善其事，必先利其器
