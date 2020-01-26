@@ -6,8 +6,6 @@
 
 ## 目录
 
-- [人脸情绪识别入门篇](./docs/StudyLineForFER.md)
-
 #### 工欲善其事，必先利其器
 - [linux基础](./docs/linux.md)
 - [git基础](./docs/git.md)
