@@ -1,0 +1,3 @@
+- [机器学习项目实践：再入院预测](https://pan.baidu.com/s/1XwGj4B6hWKQHtV6gfjB7zQ) 密码：`y3a3`
+- [深度学习项目实践：叶脉语义分割](https://pan.baidu.com/s/1bQQpc_-bEQJloknmvwrE2Q) 密码:`5hl5`  
+- [FER Demo实践](https://pan.baidu.com/s/1aqAcr_PaSEFgNdo0cc-0Cg)  提取码:`l8pw`  
