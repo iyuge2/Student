@@ -14,9 +14,8 @@
 #### 巧妇难为无米之炊
 - [知识充电站](./docs/knowledges.md)
 - [论文良品站](./docs/readingList.md)
-- [项目实践站](./docs/projectList.md)
+- [科研实践站](./docs/projectList.md)
+- [论文投稿站](./docs/paper.md)
 
-#### 科研三部曲
-- [论文调研](./docs/***.md)
-- [代码实践](./docs/***.md)
-- [论文书写](./docs/***.md)
+#### 牧童遥指杏花村
+- [算法巡航](./docs/algorithms/readme.md)

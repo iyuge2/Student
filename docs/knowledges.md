@@ -31,6 +31,7 @@
 ### 必会的python包
 - [numpy](https://www.numpy.org.cn/)
 > 强大的数值操作包
+> [numpy的100种操作](https://mp.weixin.qq.com/s/N8Pum-fhLq_oHvwfwY_1yA)
 
 - [pandas](https://www.pypandas.cn/docs/)
 > 强大的数据预处理包，必须掌握csv等常用表格文件的基本操作。
@@ -47,6 +48,9 @@
 - [其他小包推荐，功能和用法自行查找](http://www.google.com)
 > `tqdm`, `glob`, `json`, `shutil`
 
+### C++篇
+- [C++参考手册](https://zh.cppreference.com/w/)
+
 ### Github篇
 - [入门教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [官方教程](https://help.github.com/cn)
@@ -62,6 +66,7 @@
 ### 知识理解
 - [莫凡教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)  
 - [邱希鹏：神经网络与深度学习](https://pan.baidu.com/s/1Ui_smvv_aPXFVYhwMGKpPQ)  提取码: `5yrq`  
+- [邱希鹏：神经网络与深度学习教程](https://nndl.github.io/)
 
 #### pytorch
 - [awesome-pytorch](https://github.com/INTERMT/Awesome-PyTorch-Chinese)

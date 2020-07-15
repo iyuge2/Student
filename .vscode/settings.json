@@ -1,0 +1,6 @@
+{
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "vector": "cpp"
+    }
+}
