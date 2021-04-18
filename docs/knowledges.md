@@ -2,8 +2,8 @@
 > 这里分享进行深度学习常用知识的学习链接
 
 ### 书籍推荐篇
-- [百度网盘](https://pan.baidu.com/s/1h-3T5ISMnGvXmwRioslNWQ)
-> code: `e6k5`
+- [百度网盘](https://pan.baidu.com/s/16yi_AItfUb5t_vd9MJWWhw)
+> code: `v8hd`
 
 ### linux上Python开发流程搭建
 > 开发流：jupyter lab + vscode
